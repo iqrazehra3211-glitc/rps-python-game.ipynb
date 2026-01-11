@@ -1,17 +1,23 @@
 🎮 Rock Paper Scissors – Python Game
 
-A simple and fun Rock, Paper, Scissors game built using Python.
-The game runs in the terminal and allows the player to compete against the computer, which makes random choices.
+A simple and interactive Rock, Paper, Scissors game built using Python.
+This terminal-based game allows the user to play against the computer, which makes random choices.
 
-This project is beginner-friendly and demonstrates the use of:
+✨ Beginner-friendly
+✨ Clean logic
+✨ Fun and interactive
 
-Python basics
+📌 Features
 
-Conditional statements
+User vs Computer gameplay
 
-User input handling
+Random computer choices
 
-Random module
+Instant result (Win / Lose / Tie)
+
+Displays computer’s choice
+
+Simple and readable code
 
 🛠️ Technologies Used
 
@@ -19,20 +25,12 @@ Python 3
 
 Built-in random module
 
-🚀 How the Game Works
+▶️ How to Play
 
-The player is asked to choose rock, paper, or scissors.
+Run the Python file.
 
-The computer randomly selects one option.
+Enter your choice: rock, paper, or scissors.
 
-The program compares both choices.
+The computer will randomly select its choice.
 
-The result is displayed as:
-
-🟡 It's a tie
-
-🎉 You win
-
-😢 You lose
-
-The computer’s choice is shown at the end.
+The result will be displayed on the screen
